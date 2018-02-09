@@ -1,0 +1,22 @@
+{
+  "name": "hello-toey",
+  "version": "1.0.0",
+  "description": "my first lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubbytoey/hello-toey.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "tubbtoey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tubbytoey/hello-toey/issues"
+  },
+  "homepage": "https://github.com/tubbytoey/hello-toey#readme"
+}
